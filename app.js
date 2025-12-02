@@ -6,7 +6,7 @@ console.log(
 // Exercise 1
 
 let lastName;
-let age;
+var age;
 
 // Exercise 2
 
